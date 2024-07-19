@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Cobalt</h1>
 
+![Cobalt_](https://socialify.git.ci/pvishalkeerthan/Cobalt_/image?font=KoHo&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Auto)
+
 * <p>Developers often face challenges in understanding large codebases, which can be time-consuming and cumbersome. Our solution addresses this by leveraging artificial intelligence to streamline the process. Simply paste the GitHub link of the repository you want to understand, and our tool will provide an overview of the project and display all its files. You can then select any file to receive detailed explanations of its functions, making it easier to grasp complex codebases.
 </p>
 
